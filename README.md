@@ -1,1 +1,1 @@
-Hello today is thursday
+Hello today is thurs
